@@ -1,5 +1,6 @@
 # SahayakUpdated
 An app that prevent users from entering any corona prone zones and also provide live status of to the user of his/her family &amp; friends
+
 Five problems and the feature that SAHAYAK will deal with are:-
 knowing about the covid infected zone accurately.
 Getting correct information about loved ones and get in connected with them.
