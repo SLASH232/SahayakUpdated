@@ -7,3 +7,6 @@ Getting correct information about loved ones and get in connected with them.
 Finding the location of nearest location if infected with corona.
 If any suspicious potential corona potential patient is observed, information can be sent with the location to officials.
 Want to help people who need it can communicate with right authority to ensure help is being provided.
+
+#
+# TO VISIT our ANTI-COVID APP project Source Visit -https://github.com/SLASH232/AntiCovid
