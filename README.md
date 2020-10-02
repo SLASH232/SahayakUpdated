@@ -9,5 +9,4 @@ Finding the location of nearest location if infected with corona.
 If any suspicious potential corona potential patient is observed, information can be sent with the location to officials.
 Want to help people who need it can communicate with right authority to ensure help is being provided.
 
-#To VISIT our ANTI-COVID APP project Source Visit on
-https://github.com/SLASH232/AntiCovid
+# To VISIT our ANTI-COVID APP project Source Visit on:- https://github.com/SLASH232/AntiCovid
